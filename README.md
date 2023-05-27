@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](https://your-solution-url.com)
+- Solution URL: [URL here](https://wagner-goulart.github.io/ping-coming-soon-page-master/)
 
 ### Built with
 
