@@ -1,0 +1,19 @@
+@media (max-width:560px) {
+    .container form input {
+        width: calc(90% - 110px);
+    }
+}
+
+@media (max-width:480px) {
+    body {
+        padding: 32px;
+    }
+
+    .container {
+        padding: 0;
+    }
+
+    .container .dashboard {
+        max-width: 90%;
+    }
+}
